@@ -41,7 +41,6 @@ de = DifferentialEvolution(objective_func, bounds, popsize=50)
 result = de.optimize()
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=arartawil&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&custom_title=Arar's%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 
 
 [**Explore PyRADE →**](https://github.com/arartawil/PyRADE)
